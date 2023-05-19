@@ -1,7 +1,7 @@
 # To-Do-App
 NodeJS/JavaScript application that manages a to-do list. (GSG - Project 2)
 
-### `npm i`
+### `$ npm i`
 ### `$ node project-2.js`
 
 ***
