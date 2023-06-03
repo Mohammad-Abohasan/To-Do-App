@@ -18,3 +18,7 @@ Select an action:
 8) Clear all tasks
 9) Exit
 ***
+
+<div align="center" >
+  <img src="https://github.com/Mohammad-Abohasan/To-Do-App/assets/74917940/2f6431e1-c9a7-406b-bf87-34b371485f88" width="600px"/>
+</div>
